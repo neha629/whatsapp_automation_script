@@ -17,11 +17,11 @@ Simple python script to automate whatsapp to send messages in bulk to any person
 
 > python -m venv wp
 
-bash
+  bash
 
 > source wp/bin/activate
 
-windows
+  windows
 
 > wp\Scripts\activate
  
